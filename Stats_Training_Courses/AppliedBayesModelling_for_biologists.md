@@ -1,6 +1,7 @@
 Since our introductory MSc course was withdrawn, I am regularly asked by MSc / PhD students what options exist to get some training on Bayesian analysis.
 
 ## Some courses on Applied Bayesian Modelling that I became aware of and compiled, lately:
+## (Focus is currently UK / EU / rest of the World, in that order)
 
 * https://smstc.ac.uk/core_modules/modern_regression_bayesian_methods (good, quite mathematical for biology students, from the feedback I got)
 
