@@ -1,2 +1,2 @@
 # Useful-info
-Memo notes for own or public use
+Memo notes for own and public use
