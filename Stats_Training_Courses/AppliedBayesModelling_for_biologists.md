@@ -2,7 +2,7 @@ Since our introductory MSc course was withdrawn, I am regularly asked by MSc / P
 
 ## Some courses on Applied Bayesian Modelling that I became aware of and compiled, lately:
 
-* https://smstc.ac.uk/core_modules/modern_regression_bayesian_methods (quite mathematical, from the feedback I got)
+* https://smstc.ac.uk/core_modules/modern_regression_bayesian_methods (good, quite mathematical for biology students, from the feedback I got)
 
 * This one runs almost every year (I think, in different places each time):
 http://bayessummerschool.com/index.html (good, a bit dense for beginners from what I’ve heard)
@@ -12,7 +12,7 @@ http://bayessummerschool.com/index.html (good, a bit dense for beginners from wh
 * http://outreach.mathstat.strath.ac.uk/outreach/cpd/courses/index.php (if it runs again next year?)
 
 * CEH course:
-https://www.ceh.ac.uk/training/bayesian-methods-ecological-and-environmental-modelling (looking dense from the program).
+https://www.ceh.ac.uk/training/bayesian-methods-ecological-and-environmental-modelling (looking dense from the programme).
 
 * There is a good one for population ecologists (by Kery and Schaub) which I believe will run in Argentina next - check their website or phidot.org.
 
