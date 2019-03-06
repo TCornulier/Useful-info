@@ -16,10 +16,8 @@ https://www.ceh.ac.uk/training/bayesian-methods-ecological-and-environmental-mod
 
 * There is a good one for population ecologists (by Kery and Schaub) which I believe will run in Argentina next - check their website or phidot.org.
 
-* This last one is very soon, and hopefully will repeat:
-https://events.rss.org.uk/rss/frontend/reg/thome.csp?pageID=74585&eventID=241&language=1&CSPCHD=000001000000vjOeTW6QwH8e0KfaDh0IwWEjM8Q0HVUiAU5zkW
-Even though it says “intermediate”, it looks like the exact right level for a newcomer to Bayesian stats, based on the listed contents. 
-Sounds like they mean more like “intermediate stats level” rather than “intermediate Bayesian statistics”, so I expect it should suit students who regularly work with R and understand the basics of GLMs or MEM, for example. Contact them if unsure!
+* This last one is coming very soon, and hopefully will repeat:
+https://events.rss.org.uk/rss/frontend/reg/thome.csp?pageID=74585&eventID=241&language=1&CSPCHD=000001000000vjOeTW6QwH8e0KfaDh0IwWEjM8Q0HVUiAU5zkW. Even though it says “intermediate”, it looks like the right level for a newcomer to Bayesian stats, based on the listed contents. Sounds like they mean more like “intermediate stats level” rather than “intermediate Bayesian statistics”, so I expect it should suit students who regularly work with R and understand the basics of GLMs or MEM, for example. Contact them if unsure!
 
 ## Books to get started
 If you want to learn by yourself, these books could be very good starting points:
