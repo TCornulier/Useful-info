@@ -23,7 +23,7 @@ https://events.rss.org.uk/rss/frontend/reg/thome.csp?pageID=74585&eventID=241&la
 
 ## Books to get started
 If you want to learn by yourself, these books could be very good starting points:
-* “Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan” (by Kruschke: More general and up-to-date - includes Stan. Opinionated!)
+* “Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan” (by Kruschke: More general and up-to-date - includes Stan. Opinionated)
 * “Introduction to WinBUGS for Ecologists” (by Kery and Schaub: book is a bit old but still very relevant for ecologists)
 
 ## Updates
