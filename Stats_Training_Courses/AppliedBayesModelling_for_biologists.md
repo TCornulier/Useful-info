@@ -7,8 +7,6 @@ Since our introductory MSc course was withdrawn, I am regularly asked by MSc / P
 * This one runs almost every year (I think, in different places each time):
 http://bayessummerschool.com/index.html (good, a bit dense for beginners from what I’ve heard)
 
-* https://www.coursera.org/learn/bayesian (I have no info on that one - will look one day - feedback appreciated)
-
 * http://outreach.mathstat.strath.ac.uk/outreach/cpd/courses/index.php (if it runs again next year?)
 
 * CEH course:
@@ -18,6 +16,10 @@ https://www.ceh.ac.uk/training/bayesian-methods-ecological-and-environmental-mod
 
 * This last one is coming very soon, and hopefully will repeat:
 https://events.rss.org.uk/rss/frontend/reg/thome.csp?pageID=74585&eventID=241&language=1&CSPCHD=000001000000vjOeTW6QwH8e0KfaDh0IwWEjM8Q0HVUiAU5zkW. Even though it says “intermediate”, it looks like the right level for a newcomer to Bayesian stats, based on the listed contents. Sounds like they mean more like “intermediate stats level” rather than “intermediate Bayesian statistics”, so I expect it should suit students who regularly work with R and understand the basics of GLMs or MEM, for example. Contact them if unsure!
+
+## Online courses:
+* https://github.com/rmcelreath/statrethinking_winter2019 (I expect it should be very good - planning to have a good look myself, ASAP!)
+* https://www.coursera.org/learn/bayesian (No idea - will take a look one day - feedback appreciated)
 
 ## Books to get started
 If you want to learn by yourself, these books could be very good starting points:
