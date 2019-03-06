@@ -1,4 +1,4 @@
-Since our introductory MSc course has been withdrawn, I am regularly asked by MSc / PhD students what options exist to get some training on Bayesian analysis.
+Since our introductory MSc course was withdrawn, I am regularly asked by MSc / PhD students what options exist to get some training on Bayesian analysis.
 
 ## Some courses on Applied Bayesian Modelling that I became aware of and compiled, lately:
 
