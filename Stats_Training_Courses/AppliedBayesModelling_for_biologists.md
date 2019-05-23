@@ -16,7 +16,9 @@ https://www.ceh.ac.uk/training/bayesian-methods-ecological-and-environmental-mod
 
 * There is a good one for population ecologists (by Kery and Schaub) which I believe will run in Argentina next - check their website or phidot.org.
 
-* This last one is coming very soon, and hopefully will repeat:
+* 2-days Introduction to Bayesian statistics using BUGS: https://www.mrc-bsu.cam.ac.uk/training/short-courses/bayescourse/
+
+* This last one is gone, but hopefully will repeat:
 https://events.rss.org.uk/rss/frontend/reg/thome.csp?pageID=74585&eventID=241&language=1&CSPCHD=000001000000vjOeTW6QwH8e0KfaDh0IwWEjM8Q0HVUiAU5zkW. Even though it says “intermediate”, it looks like the right level for a newcomer to Bayesian stats, based on the listed contents. Sounds like they mean more like “intermediate stats level” rather than “intermediate Bayesian statistics”, so I expect it should suit students who regularly work with R and understand the basics of GLMs or MEM, for example. Contact them if unsure!
 
 ## Online courses:
@@ -25,8 +27,8 @@ https://events.rss.org.uk/rss/frontend/reg/thome.csp?pageID=74585&eventID=241&la
 
 ## Books to get started
 If you want to learn by yourself, these books could be very good starting points:
-* “Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan” (by Kruschke: More general and up-to-date - includes Stan. Opinionated)
-* “Introduction to WinBUGS for Ecologists” (by Kery and Schaub: book is a bit old but still very relevant for ecologists)
+* “Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan” (by Kruschke: More general and up-to-date - includes Stan. Opinionated.)
+* “Introduction to WinBUGS for Ecologists” (by Kery and Schaub: book is a bit old but still hugely relevant for ecologists)
 
 ## Updates
 If you can think of other/better resources, please let me know. I'll try to update the list as come across new info.
