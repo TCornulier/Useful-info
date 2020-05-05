@@ -6,6 +6,7 @@
 
 ## Measurement and logging
 
+* **Phyphox**: view and log all sensor measurements from your phone in real time: temperature, light, sound, accelerometer, barometer... Also provides a wealth of additional sensor-based tools or learning.
 * **Physics Toolbox Suite**: view and log all sensor measurements from your phone in real time: temperature, light, sound, accelerometer, barometer...
 * **Plant Screen Mobile**: Leaf area index and more
 
