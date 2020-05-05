@@ -2,7 +2,7 @@
 
 ## Copernicus
 
-* **Copernicus Global Land Service (CGLS)**: land use classification and bio-geophysical products including Vegetation, fire, water, etc... https://land.copernicus.eu/global/ 
+* **Copernicus Global Land Service (CGLS)**: 100m resolution land use classification and bio-geophysical products including Vegetation, fire, water, etc... https://land.copernicus.eu/global/ 
 * **Raw data**: https://land.copernicus.eu/imagery-in-situ
 
 # Free high-res data (France only)
