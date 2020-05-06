@@ -12,7 +12,7 @@
 
 * **Sentinel data** in case useful (much higher resolution but shorter time span). https://www.researchgate.net/post/Is_there_a_R_function_to_download_Sentinel_images (possibly made obsolete by package RGISTools?)
 
-# Good tutorials
+# Selection of good tutorials
 
 * https://rspatial.org/rs/rs.pdf
 
@@ -23,4 +23,8 @@
 * **Google Earth Engine Applications** https://www.mdpi.com/books/pdfview/book/1262
 
 * (free only during COVID crisis?) **selection of Springer books** https://link.springer.com/search?package=mat-covid19_textbooks&showAll=true&facet-language=%22En%22 
+
+# Not free ebooks
+
+* **Remote Sensing Image Classification in R** https://link.springer.com/book/10.1007/978-981-13-8012-9
 
