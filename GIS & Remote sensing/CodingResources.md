@@ -23,3 +23,4 @@
 * **Google Earth Engine Applications** https://www.mdpi.com/books/pdfview/book/1262
 
 * (free only during COVID crisis?) **selection of Springer books** https://link.springer.com/search?package=mat-covid19_textbooks&showAll=true&facet-language=%22En%22 
+
