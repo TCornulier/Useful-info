@@ -18,3 +18,8 @@
 
 * As well as this (in French only, unfortunately, but worth the effort, maybe with some help from google translate): https://rstudio-pubs-static.s3.amazonaws.com/460964_b2d547f991474d2e8c94a2ef17d58b03.html#adaptation-des-resolutions-entre-deux-rasters-resample 
 
+# Free ebooks
+
+* **Google Earth Engine Applications** https://www.mdpi.com/books/pdfview/book/1262
+
+* (free only during COVID crisis?) **selection of Springer books** https://link.springer.com/search?package=mat-covid19_textbooks&showAll=true&facet-language=%22En%22 
