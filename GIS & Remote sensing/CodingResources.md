@@ -12,11 +12,20 @@
 
 * **Sentinel data** in case useful (much higher resolution but shorter time span). https://www.researchgate.net/post/Is_there_a_R_function_to_download_Sentinel_images (possibly made obsolete by package RGISTools?)
 
-# Selection of good tutorials
+
+# R packages for Data Analysis
+
+* **Remote-Sensing Toolbox** https://github.com/bleutner/RStoolbox and https://github.com/RRemelgado/rsMove 
+
+* **Movement Data Visualization** http://movevis.org and https://github.com/cran/moveVis/ 
+
+
+# A small selection of good tutorials
 
 * https://rspatial.org/rs/rs.pdf
 
 * As well as this (in French only, unfortunately, but worth the effort, maybe with some help from google translate): https://rstudio-pubs-static.s3.amazonaws.com/460964_b2d547f991474d2e8c94a2ef17d58b03.html#adaptation-des-resolutions-entre-deux-rasters-resample 
+
 
 # Free ebooks
 
@@ -24,7 +33,13 @@
 
 * (free only during COVID crisis?) **selection of Springer books** https://link.springer.com/search?package=mat-covid19_textbooks&showAll=true&facet-language=%22En%22 
 
+
 # Not free ebooks
 
 * **Remote Sensing Image Classification in R** https://link.springer.com/book/10.1007/978-981-13-8012-9
 
+
+
+
+*If you can think of good resources that are missing here, please feel free to contribute!*
+*You are welcome to push your suggestions via Github, otherwise a good place to contact me is @TCornulier on twitter or by email (shouldn't be hard to find!)*

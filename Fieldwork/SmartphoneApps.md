@@ -1,4 +1,4 @@
-# Useful smartphone apps
+# Useful smartphone apps for ecological fieldwork
 
 ## Random sampling
 
@@ -33,3 +33,7 @@
 * **Navigation** (by Google)
 * **Maverick**: online / offline, lots of map backgrounds available. Limited number of waypoints available to record in free version.
 * **GPS status**
+
+
+*If you can think of good resources that are missing here, please feel free to contribute!*
+*You are welcome to push your suggestions via Github, otherwise a good place to contact me is @TCornulier on twitter or by email (shouldn't be hard to find!)*
